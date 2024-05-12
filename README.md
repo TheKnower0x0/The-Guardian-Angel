@@ -78,7 +78,7 @@ g++ -o prototype prototype.cpp -lcryptopp -lpthread
 ```
 
 
-## 📸 Screenshot
+## 📸 Screenshots
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Menu.png)
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Encrypt.png)
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Decrypt.png)
@@ -90,4 +90,6 @@ g++ -o prototype prototype.cpp -lcryptopp -lpthread
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-
+-----
+Project Maintainer: [TheKnower0x0](https://github.com/TheKnower0x0) 
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/mohamed-ashraf-the-knower/)
