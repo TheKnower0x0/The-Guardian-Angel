@@ -25,7 +25,7 @@ Whether you're looking to safeguard personal data or secure sensitive informatio
 ```bash
 sudo apt update
 ```
-* Install all necessary libraries. 
+* Install all necessary libraries
 
 ```bash
 sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
