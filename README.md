@@ -35,7 +35,7 @@ sudo apt-get install libcrypto++-dev libcrypto++-doc libcrypto++-utils
 ```bash
 sudo apt-get install g++
 ```
-* Clone the repository.
+* Clone the repository
 
 ```bash
 git clone https://github.com/TheKnower0x0/The-Guardian-Angel.git
