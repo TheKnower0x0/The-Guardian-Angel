@@ -13,7 +13,7 @@ Whether you're looking to safeguard personal data or secure sensitive informatio
 - C++
 - G++ compiler for Linux
 - Any C++ compiler for Windows 
-- Any c++ compiler for macOS
+- Any C++ compiler for macOS
 - Crypto++ Library
 
 
