@@ -20,7 +20,7 @@ Whether you're looking to safeguard personal data or secure sensitive informatio
 
 ## 🛠️ Installation
 
-* Simply execute the following command
+* Simply execute the following commands:
 
 ```bash
 sudo apt update
