@@ -1,4 +1,4 @@
-## ℹ️ The Guardian Angel🪽
+## ℹ️ The Guardian Angel 🪽😇
 
 The Guardian Angel is a robust file system encryption and decryption tool designed to enhance the security of your data across multiple platforms including Windows, Linux, and macOS. Leveraging advanced encryption algorithms such as AES, Twofish, Triple DES, and Blowfish, The Guardian Angel ensures that your binary files and text documents are securely encrypted. An additional layer of security is enforced through a specialized decryption key that users must enter to access their encrypted files. This feature adds an extra level of protection against unauthorized access.
 
