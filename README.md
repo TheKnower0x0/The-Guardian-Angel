@@ -79,7 +79,10 @@ g++ -o prototype prototype.cpp -lcryptopp -lpthread
 
 
 ## 📸 Screenshot
-
+![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Menu.png)
+![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Encrypt.png)
+![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Decrypt.png)
+![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Exit.png)
 
 
 
