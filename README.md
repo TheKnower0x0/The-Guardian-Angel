@@ -49,12 +49,12 @@ cd The-Guardian-Angel
 * Run the tool
 
 ```bash
-g++ -o prototype prototype.cpp -lcryptopp -lpthread
+g++ -o TheGuardianAngel TheGuardianAngel.cpp -lcryptopp -lpthread
 ```
 * Execute it and happy encryption !
 
 ```bash
-./prototype
+./TheGuardianAngel
 ```
 
 ## 🎯 Features
