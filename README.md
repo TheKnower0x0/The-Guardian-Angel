@@ -70,11 +70,11 @@ g++ -o TheGuardianAngel TheGuardianAngel.cpp -lcryptopp -lpthread
 ## ⁉️ Usage
 
 ```bash
-g++ -o prototype prototype.cpp -lcryptopp -lpthread
+g++ -o TheGuardianAngel TheGuardianAngel.cpp -lcryptopp -lpthread
 ```
 
 ```bash
-./prototype
+./TheGuardianAngel
 ```
 
 
