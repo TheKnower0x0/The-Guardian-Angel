@@ -79,7 +79,7 @@ g++ -o TheGuardianAngel TheGuardianAngel.cpp -lcryptopp -lpthread
 
 
 ## 📸 Screenshots
-![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Menu.png)
+![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Main-Menu.png)
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Encrypt.png)
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Decrypt.png)
 ![alt text](https://github.com/TheKnower0x0/The-Guardian-Angel/blob/main/img/Exit.png)
